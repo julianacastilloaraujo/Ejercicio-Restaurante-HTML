@@ -1,2 +1,10 @@
-# programar
-Clase 3 | 0️⃣Curso Gratis de Programación Básica https://platzi.com/cursos/programacion-basica/
+# Ejercicio de Restaurante
+* Uso de HTML
+* Etiquetas
+* header
+* section
+* footer
+* aside
+* nav
+* article
+* figure
